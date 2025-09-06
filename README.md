@@ -1,5 +1,8 @@
 # Marketing-Campaign-Analysis-with-EDA-and-Hypothesis-Testing
+
 Data science project analyzing marketing mix 4Ps (product, price, place, and promotion) using EDA, feature engineering, and hypothesis testing to understand customer acquisition and campaign effectiveness.
+
+---
 
 ## Project Overview ??????  
 This project analyzes real-world marketing campaign data to uncover **customer behavior insights** using **Exploratory Data Analysis (EDA)**, **hypothesis testing**, and **statistical modeling**.  
@@ -85,6 +88,17 @@ This project highlights how **data-driven insights** can enhance marketing strat
 - Reducing **ineffective marketing spend**  
 - Enhancing **promotion channel selection**  
 - Driving **customer acquisition and retention**  
+
+
+
+---
+
+## Author
+
+**Abolfazl Zolfaghari**  
+[Email](ab.zolfaghari.abbasghaleh) | [GitHub](https://github.com/abolfazl6678)
+
+---
 
 
 
