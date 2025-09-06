@@ -1,10 +1,7 @@
 # Marketing-Campaign-Analysis-with-EDA-and-Hypothesis-Testing
 Data science project analyzing marketing mix 4Ps (product, price, place, and promotion) using EDA, feature engineering, and hypothesis testing to understand customer acquisition and campaign effectiveness.
 
-
-# Customer Behavior Insights from Marketing Campaigns
-
-## 📌 Project Overview  
+## Project Overview ??????  
 This project analyzes real-world marketing campaign data to uncover **customer behavior insights** using **Exploratory Data Analysis (EDA)**, **hypothesis testing**, and **statistical modeling**.  
 The goal is to evaluate the effectiveness of marketing strategies across the **4Ps (Product, Price, Place, Promotion)** and identify key drivers of **customer acquisition and campaign success**.  
 
@@ -12,7 +9,7 @@ By applying rigorous data analysis, this project demonstrates how **data science
 
 ---
 
-## 🎯 Problem Statement  
+## Problem Statement  ????
 Marketing campaigns often involve multiple factors such as customer demographics, income levels, purchasing behavior, and promotional channels.  
 The challenge is to analyze these dimensions and test hypotheses that explain **why certain campaigns succeed while others fail**.  
 
@@ -23,7 +20,7 @@ As a data scientist, the objective is to:
 
 ---
 
-## 📂 Dataset Description  
+## Dataset Description  ???
 The dataset contains information on customer demographics, income, product purchases, shopping channels, and marketing campaign outcomes.  
 
 Key Features:  
@@ -35,7 +32,7 @@ Key Features:
 
 ---
 
-## 🛠️ Steps & Methodology  
+## Steps & Methodology  ??? 
 
 1. **Data Cleaning & Preprocessing**  
    - Handle missing values (e.g., income imputation using education + marital status).  
@@ -62,7 +59,7 @@ Key Features:
 
 ---
 
-## 📊 Tools & Technologies  
+## Tools & Technologies  ????
 - **Python** (Pandas, NumPy, Scikit-learn, SciPy, Statsmodels)  
 - **Visualization**: Matplotlib, Seaborn  
 - **Statistical Testing**: T-tests, ANOVA, Chi-square tests  
@@ -70,7 +67,7 @@ Key Features:
 
 ---
 
-## 🚀 Key Insights & Outcomes  
+## Key Insights & Outcomes  ???
 - Identified **customer segments** most likely to respond positively to campaigns.  
 - Detected **spending behavior differences** by demographics and family structure.  
 - Validated/Rejected **marketing hypotheses** with statistical rigor.  
@@ -78,21 +75,13 @@ Key Features:
 
 ---
 
-## 📈 Business Impact  
+## Business Impact  ???
 This project highlights how **data-driven insights** can enhance marketing strategies by:  
 - Improving **customer segmentation and targeting**  
 - Reducing **ineffective marketing spend**  
 - Enhancing **promotion channel selection**  
 - Driving **customer acquisition and retention**  
 
----
-
-## 🧑‍💻 Author  
-👤 **Abolfazl Zolfaghari**  
-- Data Scientist | Mechanical Engineer transitioning into Data Science  
-- Passionate about **AI, Machine Learning, and Business Analytics**  
-
----
 
 
 
