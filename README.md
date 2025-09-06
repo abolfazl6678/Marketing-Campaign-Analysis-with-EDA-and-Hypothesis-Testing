@@ -25,9 +25,9 @@ This dataset provides insights into **customer demographics, purchasing behavior
 
 ### Available Tables
 1. **marketing_data** – complete dataset.  
-2. **Data_Dictionary** – description of each variable in the marketing_data table.
+2. **Data_Dictionary** – Provides detailed descriptions of the 28 variables in the marketing_data table.
 
-### Key Features of the data:  
+### Key features of the data:  
 - **Demographics**: Age, Marital Status, Education, Number of Children  
 - **Purchases**: Spending on Wine, Fruits, Meat, Gold, Fish, etc.  
 - **Channels**: Web, Catalog, and In-Store transactions  
