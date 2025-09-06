@@ -20,15 +20,19 @@ As a data scientist, the objective is to:
 
 ---
 
-## Dataset Description  ???
-The dataset contains information on customer demographics, income, product purchases, shopping channels, and marketing campaign outcomes.  
+## Dataset Description
+This dataset provides insights into **customer demographics, purchasing behavior, and responses to marketing campaigns**. It is designed to support **customer segmentation, targeted marketing, and campaign effectiveness analysis**.
 
-Key Features:  
+### Available Tables
+1. **marketing_data** – complete dataset.  
+2. **Data_Dictionary** – description of each variable in the marketing_data table.
+
+### Key Features of the data:  
 - **Demographics**: Age, Marital Status, Education, Number of Children  
 - **Purchases**: Spending on Wine, Fruits, Meat, Gold, Fish, etc.  
 - **Channels**: Web, Catalog, and In-Store transactions  
 - **Promotions**: Number of campaigns accepted, complaints, response to last campaign  
-- **Country**: Customer’s country of residence  
+- **Country**: Customer’s country of residence 
 
 ---
 
