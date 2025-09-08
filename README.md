@@ -7,7 +7,6 @@ Data science project analyzing marketing mix 4Ps (product, price, place, and pro
 ## Project Overview ??????  
 This project analyzes real-world marketing campaign data to uncover **customer behavior insights** using **Exploratory Data Analysis (EDA)**, **hypothesis testing**, and **statistical modeling**.  
 The goal is to evaluate the effectiveness of marketing strategies across the **4Ps (Product, Price, Place, Promotion)** and identify key drivers of **customer acquisition and campaign success**.  
-
 By applying rigorous data analysis, this project demonstrates how **data science can transform marketing decision-making** and help businesses optimize their strategies for better ROI.  
 
 ---
@@ -39,7 +38,7 @@ This dataset provides insights into **customer demographics, purchasing behavior
 
 ---
 
-## Steps & Methodology  ??? 
+## Steps & Methodology
 
 1. **Data Cleaning & Preprocessing**  
    - Handle missing values (e.g., income imputation using education + marital status).  
@@ -66,11 +65,11 @@ This dataset provides insights into **customer demographics, purchasing behavior
 
 ---
 
-## Tools & Technologies  ????
+## Tools & Technologies
 - **Python** (Pandas, NumPy, Scikit-learn, SciPy, Statsmodels)  
 - **Visualization**: Matplotlib, Seaborn  
 - **Statistical Testing**: T-tests, ANOVA, Chi-square tests  
-- **Jupyter Notebook** for analysis  
+- **Tools:** Jupyter Notebook and Git/GitHub  
 
 ---
 
@@ -88,9 +87,6 @@ This project highlights how **data-driven insights** can enhance marketing strat
 - Reducing **ineffective marketing spend**  
 - Enhancing **promotion channel selection**  
 - Driving **customer acquisition and retention**  
-
-
-
 ---
 
 ## Author
