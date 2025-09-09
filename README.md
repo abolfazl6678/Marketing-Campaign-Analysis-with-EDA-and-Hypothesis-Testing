@@ -46,9 +46,9 @@ This dataset provides insights into **customer demographics, purchasing behavior
    - Encode categorical variables using **ordinal encoding** and **one-hot encoding**.  
 
 2. **Exploratory Data Analysis (EDA)**  
-   - Histograms & boxplots to detect outliers.  
-   - Correlation heatmap to analyze relationships.  
-   - Distribution of spending across products and customer groups.  
+   - Histograms & boxplots to detect outliers.
+   - Use IQR method to detect possible outlier data points  
+   - Correlation heatmap to analyze relationships.
 
 3. **Hypothesis Testing**  
    - Are older individuals less likely to prefer online shopping?  
