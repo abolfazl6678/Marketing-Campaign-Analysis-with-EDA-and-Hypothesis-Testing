@@ -47,8 +47,10 @@ This dataset provides insights into **customer demographics, purchasing behavior
 
 2. **Exploratory Data Analysis (EDA)**  
    - Histograms & boxplots to detect outliers.
-   - Use IQR method to detect possible outlier data points  
+   - Use IQR method to detect possible outlier data points
+   - Drop outliers from the dataset
    - Correlation heatmap to analyze relationships.
+   - Check normality distribution of the varaibles by histogram plot, Q-Q plots, skewness, excess kurtosis and Shapiro–Wilk test.
 
 3. **Hypothesis Testing**  
    - Are older individuals less likely to prefer online shopping?  
