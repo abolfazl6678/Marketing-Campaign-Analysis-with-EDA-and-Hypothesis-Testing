@@ -75,21 +75,6 @@ This dataset provides insights into **customer demographics, purchasing behavior
 
 ---
 
-## Key Insights & Outcomes  ???
-- Identified **customer segments** most likely to respond positively to campaigns.  
-- Detected **spending behavior differences** by demographics and family structure.  
-- Validated/Rejected **marketing hypotheses** with statistical rigor.  
-- Delivered **data-driven recommendations** to improve campaign ROI and targeting.  
-
----
-
-## Business Impact  ???
-This project highlights how **data-driven insights** can enhance marketing strategies by:  
-- Improving **customer segmentation and targeting**  
-- Reducing **ineffective marketing spend**  
-- Enhancing **promotion channel selection**  
-- Driving **customer acquisition and retention**  
----
 
 ## Author
 
