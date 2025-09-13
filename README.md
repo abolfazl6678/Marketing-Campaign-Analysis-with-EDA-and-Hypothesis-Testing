@@ -1,5 +1,4 @@
 # Marketing-Campaign-Analysis-with-EDA-and-Hypothesis-Testing
-
 Data science project analyzing marketing mix 4Ps (product, price, place, and promotion) using EDA, feature engineering, and hypothesis testing to understand customer acquisition and campaign effectiveness.
 
 ---
@@ -74,17 +73,26 @@ This dataset provides insights into **customer demographics, purchasing behavior
 - **Tools:** Jupyter Notebook and Git/GitHub  
 
 ---
-## Project Structure ?????
+## Project Structure
 ```
-Online-Car-Rental-Platform/
-├── CarRental_m.py # Rental system module (OOP logic)
-├── Cust_m.py 
-├── Inventory.txt
-├── Requested.txt
-├── output/
-│ ├── screen_shot_availability_check.png
-│ ├── screen_shot_request_cars.png
-│ └── screen_shot_return_bill.png
+Marketing-Campaign-Analysis-with-EDA-and-Hypothesis-Testing/
+├── data/
+│ ├── interim/
+│ │   ├── cleaned_data.parquet
+│ │   └── data_outliers_cleared.parquet
+│ └── raw/
+│     ├── Data_Dictionary.xlsx
+│     └── marketing_data.csv
+├── Jupyter_notebook_Scripts/
+│     ├── 01_Data_Cleaning_Preprocessing.ipynb
+│     ├── 02_Exploratory_Data_Analysis_EDA.ipynb
+│     ├── 03_Hypothesis Testing.ipynb 
+│     └── 04_Visualization & Insights.ipynb
+├── Output/
+│     ├── 01_Data_Cleaning_Preprocessing.docx
+│     ├── 02_Exploratory_Data_Analysis_EDA.docx
+│     ├── 03_Hypothesis Testing.docx 
+│     └── 04_Visualization & Insights.docx
 └── README.md
 
 ```
