@@ -3,20 +3,20 @@ Data science project analyzing marketing mix 4Ps (product, price, place, and pro
 
 ---
 
-## Project Overview ??????  
+## Project Overview  
 This project analyzes real-world marketing campaign data to uncover **customer behavior insights** using **Exploratory Data Analysis (EDA)**, **hypothesis testing**, and **statistical modeling**.  
 The goal is to evaluate the effectiveness of marketing strategies across the **4Ps (Product, Price, Place, Promotion)** and identify key drivers of **customer acquisition and campaign success**.  
 By applying rigorous data analysis, this project demonstrates how **data science can transform marketing decision-making** and help businesses optimize their strategies for better ROI.  
 
 ---
 
-## Problem Statement  ????
+## Problem Statement
 Marketing campaigns often involve multiple factors such as customer demographics, income levels, purchasing behavior, and promotional channels.  
 The challenge is to analyze these dimensions and test hypotheses that explain **why certain campaigns succeed while others fail**.  
 
 As a data scientist, the objective is to:  
 - Perform **EDA** to understand customer characteristics and spending habits.  
-- Conduct **hypothesis testing** to validate assumptions about campaign effectiveness.  
+- Conduct **hypothesis testing** to validate assumptions about purchasing behavior.  
 - Provide **data-driven recommendations** for campaign optimization and customer targeting.  
 
 ---
@@ -96,12 +96,11 @@ Marketing-Campaign-Analysis-with-EDA-and-Hypothesis-Testing/
 └── README.md
 
 ```
-## Steps to Run ????
-1. Open Visual Studio Code.
-2. Open CarRental_m.py using Visual Studio Code.
-3. Run CarRental_m.py.
-4. Follow instructions appears on VS code termial to perfrom availability check, renting and returning cars.
-5. Bill will be generated at the end of returning cars process!
+## Steps to Run
+1. Go to `Jupyter_notebook_Scripts` folder.
+2. Run all scripts one by one according to numbers.
+3. Output of the notebooks can be check in `Output` folder.
+4. All analysis of the data can be read in the related notebooks and the outputs.
 
 ## Author
 
