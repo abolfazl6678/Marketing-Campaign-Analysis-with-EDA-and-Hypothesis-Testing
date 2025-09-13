@@ -74,7 +74,26 @@ This dataset provides insights into **customer demographics, purchasing behavior
 - **Tools:** Jupyter Notebook and Git/GitHub  
 
 ---
+## Project Structure ?????
+```
+Online-Car-Rental-Platform/
+├── CarRental_m.py # Rental system module (OOP logic)
+├── Cust_m.py 
+├── Inventory.txt
+├── Requested.txt
+├── output/
+│ ├── screen_shot_availability_check.png
+│ ├── screen_shot_request_cars.png
+│ └── screen_shot_return_bill.png
+└── README.md
 
+```
+## Steps to Run ????
+1. Open Visual Studio Code.
+2. Open CarRental_m.py using Visual Studio Code.
+3. Run CarRental_m.py.
+4. Follow instructions appears on VS code termial to perfrom availability check, renting and returning cars.
+5. Bill will be generated at the end of returning cars process!
 
 ## Author
 
